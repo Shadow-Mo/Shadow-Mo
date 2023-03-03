@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shadow-Mo
-- 👀 I’m interested in Technology and Cyber Security
+- 👀 I’m interested in Technology, Web dev, AI and Cyber Security
 - 🌱 I’m currently learning Java and 
 - 💞️ I’m looking to collaborate on anything related to tech
 - 📫 How to reach me https://twitter.com/Mouneshazonde
