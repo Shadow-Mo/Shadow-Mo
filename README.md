@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Shadow-Mo](https://github.com/Shadow-Mo)
 - 👀 I’m interested in Technology, Web dev, AI and Cyber Security
-- 🌱 I’m currently learning Java and 
+- 🌱 I’m currently learning MERN stack and 
 - 💞️ I’m looking to collaborate on anything related to tech
 - 📫 How to reach me [Mouneshazonde](https://twitter.com/Mouneshazonde)
 
