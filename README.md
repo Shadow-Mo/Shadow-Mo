@@ -1,10 +1,18 @@
-- 👋 Hi, I’m [Shadow-Mo](https://github.com/Shadow-Mo)
-- 👀 I’m interested in Technology, Web dev, AI and Cyber Security
-- 🌱 I’m currently learning MERN stack and 
-- 💞️ I’m looking to collaborate on anything related to tech
-- 📫 How to reach me [Mouneshazonde](https://twitter.com/Mouneshazonde)
+Hi! My name is Mounesha Zonde 😄
+========================================================================================================================================
 
-<!---
-Shadow-Mo/Shadow-Mo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍  I am a Front-End Developer based in Pune(MH), India.
+<br/>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+<br/>
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mounesha-zonde-3a8481153/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
