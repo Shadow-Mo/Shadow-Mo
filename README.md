@@ -1,4 +1,4 @@
-Hi! My name is Mounesha Zonde 😄
+Hi! My name is Mounesh Zonde 😄
 ========================================================================================================================================
 
 🌍  I am a Full-Stack Developer based in Pune(MH), India.
