@@ -12,7 +12,7 @@ Hi! My name is Mounesh Zonde 😄
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/mounesha-zonde-3a8481153">
+  <a href="https://www.linkedin.com/in/mounesh-zonde-3a8481153">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Mounesha_zonde">
